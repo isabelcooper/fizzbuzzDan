@@ -1,3 +1,3 @@
-def fizzbuzz(number)
-  number
+def fizzbuzz
+  puts 'code me'
 end
